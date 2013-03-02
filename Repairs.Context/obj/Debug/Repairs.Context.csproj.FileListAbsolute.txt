@@ -1,0 +1,12 @@
+C:\Users\dev\SkyDrive\BoundedContextProject\BoundedContextsProject\Repairs.Context\bin\Debug\Repairs.Context.dll.config
+C:\Users\dev\SkyDrive\BoundedContextProject\BoundedContextsProject\Repairs.Context\bin\Debug\Repairs.Context.dll
+C:\Users\dev\SkyDrive\BoundedContextProject\BoundedContextsProject\Repairs.Context\bin\Debug\Repairs.Context.pdb
+C:\Users\dev\SkyDrive\BoundedContextProject\BoundedContextsProject\Repairs.Context\bin\Debug\Base.Context.dll
+C:\Users\dev\SkyDrive\BoundedContextProject\BoundedContextsProject\Repairs.Context\bin\Debug\EntityFramework.dll
+C:\Users\dev\SkyDrive\BoundedContextProject\BoundedContextsProject\Repairs.Context\bin\Debug\Repairs.Domain.dll
+C:\Users\dev\SkyDrive\BoundedContextProject\BoundedContextsProject\Repairs.Context\bin\Debug\Base.Context.pdb
+C:\Users\dev\SkyDrive\BoundedContextProject\BoundedContextsProject\Repairs.Context\bin\Debug\Repairs.Domain.pdb
+C:\Users\dev\SkyDrive\BoundedContextProject\BoundedContextsProject\Repairs.Context\bin\Debug\EntityFramework.xml
+C:\Users\dev\SkyDrive\BoundedContextProject\BoundedContextsProject\Repairs.Context\obj\Debug\Repairs.Context.csprojResolveAssemblyReference.cache
+C:\Users\dev\SkyDrive\BoundedContextProject\BoundedContextsProject\Repairs.Context\obj\Debug\Repairs.Context.dll
+C:\Users\dev\SkyDrive\BoundedContextProject\BoundedContextsProject\Repairs.Context\obj\Debug\Repairs.Context.pdb

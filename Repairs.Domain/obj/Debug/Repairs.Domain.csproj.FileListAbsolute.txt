@@ -1,0 +1,5 @@
+C:\Users\dev\SkyDrive\BoundedContextProject\BoundedContextsProject\Repairs.Domain\bin\Debug\Repairs.Domain.dll
+C:\Users\dev\SkyDrive\BoundedContextProject\BoundedContextsProject\Repairs.Domain\bin\Debug\Repairs.Domain.pdb
+C:\Users\dev\SkyDrive\BoundedContextProject\BoundedContextsProject\Repairs.Domain\obj\Debug\Repairs.Domain.csprojResolveAssemblyReference.cache
+C:\Users\dev\SkyDrive\BoundedContextProject\BoundedContextsProject\Repairs.Domain\obj\Debug\Repairs.Domain.dll
+C:\Users\dev\SkyDrive\BoundedContextProject\BoundedContextsProject\Repairs.Domain\obj\Debug\Repairs.Domain.pdb

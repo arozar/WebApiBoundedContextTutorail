@@ -1,0 +1,8 @@
+C:\Users\dev\SkyDrive\BoundedContextProject\BoundedContextsProject\Base.Context\bin\Debug\Base.Context.dll.config
+C:\Users\dev\SkyDrive\BoundedContextProject\BoundedContextsProject\Base.Context\bin\Debug\Base.Context.dll
+C:\Users\dev\SkyDrive\BoundedContextProject\BoundedContextsProject\Base.Context\bin\Debug\Base.Context.pdb
+C:\Users\dev\SkyDrive\BoundedContextProject\BoundedContextsProject\Base.Context\bin\Debug\EntityFramework.dll
+C:\Users\dev\SkyDrive\BoundedContextProject\BoundedContextsProject\Base.Context\bin\Debug\EntityFramework.xml
+C:\Users\dev\SkyDrive\BoundedContextProject\BoundedContextsProject\Base.Context\obj\Debug\Base.Context.csprojResolveAssemblyReference.cache
+C:\Users\dev\SkyDrive\BoundedContextProject\BoundedContextsProject\Base.Context\obj\Debug\Base.Context.dll
+C:\Users\dev\SkyDrive\BoundedContextProject\BoundedContextsProject\Base.Context\obj\Debug\Base.Context.pdb

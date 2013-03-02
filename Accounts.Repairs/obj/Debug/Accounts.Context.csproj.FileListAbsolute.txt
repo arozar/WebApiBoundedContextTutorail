@@ -1,0 +1,12 @@
+C:\Users\dev\SkyDrive\BoundedContextProject\BoundedContextsProject\Accounts.Repairs\bin\Debug\Accounts.Repairs.dll.config
+C:\Users\dev\SkyDrive\BoundedContextProject\BoundedContextsProject\Accounts.Repairs\bin\Debug\Accounts.Repairs.dll
+C:\Users\dev\SkyDrive\BoundedContextProject\BoundedContextsProject\Accounts.Repairs\bin\Debug\Accounts.Repairs.pdb
+C:\Users\dev\SkyDrive\BoundedContextProject\BoundedContextsProject\Accounts.Repairs\bin\Debug\Accounts.Domain.dll
+C:\Users\dev\SkyDrive\BoundedContextProject\BoundedContextsProject\Accounts.Repairs\bin\Debug\Base.Context.dll
+C:\Users\dev\SkyDrive\BoundedContextProject\BoundedContextsProject\Accounts.Repairs\bin\Debug\EntityFramework.dll
+C:\Users\dev\SkyDrive\BoundedContextProject\BoundedContextsProject\Accounts.Repairs\bin\Debug\Accounts.Domain.pdb
+C:\Users\dev\SkyDrive\BoundedContextProject\BoundedContextsProject\Accounts.Repairs\bin\Debug\Base.Context.pdb
+C:\Users\dev\SkyDrive\BoundedContextProject\BoundedContextsProject\Accounts.Repairs\bin\Debug\EntityFramework.xml
+C:\Users\dev\SkyDrive\BoundedContextProject\BoundedContextsProject\Accounts.Repairs\obj\Debug\Accounts.Context.csprojResolveAssemblyReference.cache
+C:\Users\dev\SkyDrive\BoundedContextProject\BoundedContextsProject\Accounts.Repairs\obj\Debug\Accounts.Repairs.dll
+C:\Users\dev\SkyDrive\BoundedContextProject\BoundedContextsProject\Accounts.Repairs\obj\Debug\Accounts.Repairs.pdb
